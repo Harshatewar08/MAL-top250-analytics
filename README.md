@@ -2,8 +2,6 @@
 
 This project extracts and analyzes the Top 250 anime from [MyAnimeList.net](https://myanimelist.net/topanime.php) using Python and BeautifulSoup, then visualizes the insights through an anime-themed Power BI dashboard.
 
-![Anime Dashboard Preview](MAL-top250-analytics/blob/main/Dashbord%20with%20tooltip.png)
-
 ---
 
 ## 🚀 Project Highlights
